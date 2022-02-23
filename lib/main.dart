@@ -4,7 +4,7 @@ import 'package:flutter_application_1/pages/login_page.dart';
 import 'package:flutter_application_1/utils/routes.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -15,7 +15,6 @@ class MyApp extends StatelessWidget {
     // double pi = 3.14;
     // bool isMale = true;
     // num temp = 30.5;
-
     // var day = "Friday";
     // const pi = 3.14;
 
